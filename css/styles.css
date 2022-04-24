@@ -150,7 +150,7 @@ h1 {
     color: #00252E;
 }
 
-.grow_text .grow_paragraph, .user_text .users_paragraph {
+.grow_text .grow_paragraph, .users_text .users_paragraph {
     margin-top: 8px;
     font-style: normal;
     font-weight: 400;
